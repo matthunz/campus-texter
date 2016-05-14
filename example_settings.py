@@ -1,6 +1,8 @@
 # Twilio account info
 ACCOUNT_SID = ''
 AUTH_TOKEN = ''
+number_from = ''
+number_to = ''
 
 base_url = '' # Ex: http://campus.example.com/campus/
 first_name = ''
